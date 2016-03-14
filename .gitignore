@@ -1,3 +1,6 @@
 node_modules
 data
 journal
+WiredTigerLog.0000000004
+WiredTigerLog.0000000002
+WiredTigerLog.0000000001
